@@ -1,1 +1,2 @@
-# SportsConnect
+# GameCorner
+  Mini Project 
